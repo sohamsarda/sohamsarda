@@ -43,7 +43,7 @@
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sohamsarda)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soham@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohamsardajam@gmail.com)
 
 <!-- Replace email if different -->
 
@@ -53,7 +53,6 @@
 
 ## 🧠 Fun Facts
 
-- 💻 I love spending time coding and building side projects — it's my favorite way to learn.
 - 🏏 I'm a huge cricket fan and rarely miss an exciting match or tournament.
 - 📚 In my downtime, I enjoy reading books — especially tech, productivity, and personal development.
 - ☕ Coffee + Code + Cricket = My kind of weekend!
