@@ -35,7 +35,7 @@
 - 👨‍🎓 I'm a recent graduate in **Computer Science**.
 - 💻 Passionate about developing **scalable full-stack applications**.
 - 🌱 Currently learning **TypeScript**, **Next.js**, and expanding my backend skills.
-- 🛠️ Always eager to collaborate on real-world projects and open-source.
+- 🛠️ Always eager to collaborate on real-world projects.
 - 🎯 Career Goal: Become a strong **Full Stack Developer** and contribute to impactful software.
 
 ---
