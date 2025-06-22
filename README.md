@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="coding" width="400" src="https://cdn.wallpapersafari.com/84/22/Jz6bAs.gif">
+
 
 - 🎓 Recent graduate in **Computer Science**
 - 💻 Passionate about building **scalable full-stack applications**
@@ -44,7 +44,6 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
----
 
 ---
 
@@ -56,11 +55,8 @@
 
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sohamsarda&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
 
-
+----
 
 ## 🔗 Connect with Me
 
