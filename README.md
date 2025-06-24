@@ -81,5 +81,5 @@
 
 ## 💡 Favorite Quote
 
-> *"Success is the sum of small efforts, repeated day in and day out."*  
-> — **Robert Collier**
+> *"A man is made by his belief, as he believes, so he is."*  
+> — **Bhagavad Gita**
