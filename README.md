@@ -45,7 +45,7 @@
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohamsarda&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sohamsarda&show_icons=true&theme=github_light&count_private=true" alt="GitHub Stats" />
 </p>
 
 
